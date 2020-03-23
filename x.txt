@@ -1,0 +1,33 @@
+Bad Code
+Bad Code and Image
+Bad Instruction
+Bad Image
+Bad Text
+Bad Text and Code
+Clarity
+Code/Image mismatch
+Factual Error
+Factual Error; Step Gap
+Grammar
+Image Difference
+Impossible Conclusion
+Impossible Instruction
+Interface difference; Outdated Image
+Missing Code
+Missing Image
+Missing Instruction
+Missing Text
+Non-sequitur
+Opportunity
+Poor Example Code
+Poor Formatting
+Poor Instruction
+Problematic Image
+Quiz Error/Problem
+Step gap
+Step Gap and Missing Code
+Text/Code Mismatch
+Text/Image mismatch
+Typo
+Unclear Text
+Version difference

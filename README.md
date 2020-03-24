@@ -14,3 +14,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [5.2.5/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.2.5/taskmaster-pro)  
 [5.2.6/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.2.6/taskmaster-pro)  
 [5.3.5/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.3.5/taskmaster-pro)  
+[5.3.6/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.3.6/taskmaster-pro)  

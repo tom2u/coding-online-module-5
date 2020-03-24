@@ -23,6 +23,7 @@ Poor Example Code
 Poor Formatting
 Poor Instruction
 Problematic Image
+Procedure Order Problem
 Quiz Error/Problem
 Step gap
 Step Gap and Missing Code

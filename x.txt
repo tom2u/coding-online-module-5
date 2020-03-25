@@ -4,6 +4,7 @@ Bad Instruction
 Bad Image
 Bad Text
 Bad Text and Code
+Bad URL
 Clarity
 Code/Image mismatch
 Factual Error

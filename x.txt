@@ -25,10 +25,12 @@ Poor Instruction
 Problematic Image
 Procedure Order Problem
 Quiz Error/Problem
+SNAFU
 Step gap
 Step Gap and Missing Code
 Text/Code Mismatch
 Text/Image mismatch
+Text/Result mismatch
 Typo
 Unclear Text
 Version difference

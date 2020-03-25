@@ -1,0 +1,4 @@
+The date picker shows up just fine, but what happens when we try to select a new date? It doesn't seem to work! If we open the Chrome DevTools console tab, we'll see an error that looks something like this image:
+
+--> It works without error when I perform this step.
+

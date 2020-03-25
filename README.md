@@ -19,4 +19,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [5.4.4/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.4.4/taskmaster-pro)  
 [5.4.5/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.4.5/taskmaster-pro)  
 [5.4.6/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.4.6/taskmaster-pro)  
-[5.4.6/taskmaster-pro](https://tom2u.github.io/coding-online-module-5/5.4.6/taskmaster-pro/assets/js/script-5.4-diff.js)  
+[5.4.6/taskmaster-pro/assets/js/script-5.4-diff.js](https://tom2u.github.io/coding-online-module-5/5.4.6/taskmaster-pro/assets/js/script-5.4-diff.js)  

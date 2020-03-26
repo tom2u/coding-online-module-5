@@ -7,6 +7,7 @@ Bad Text and Code
 Bad URL
 Clarity
 Code/Image mismatch
+Code Improvement
 Factual Error
 Factual Error; Step Gap
 Grammar

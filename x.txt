@@ -14,6 +14,7 @@ Grammar
 Image Difference
 Impossible Conclusion
 Impossible Instruction
+Interface difference
 Interface difference; Outdated Image
 Missing Code
 Missing Image
